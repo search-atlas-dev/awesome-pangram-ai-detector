@@ -50,3 +50,5 @@ A curated list of official pages, independent write-ups and critical reading abo
 ## Contributing
 
 Open a pull request with a link that an official Pangram page or a hands-on review actually cites; one line per item, no marketing copy.
+
+_Last reviewed: 2026-09-22_
